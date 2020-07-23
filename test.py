@@ -4,7 +4,7 @@ import numpy as np
 
 
 st.write("""
-# My first Application. Kya baat hai
+# My first Application. Kya baat hai...
 """)
 
 st.sidebar.header('User Input Parameters')
