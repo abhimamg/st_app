@@ -18,7 +18,7 @@ if uploaded_file is None:
 else:
     data = pd.read_csv(uploaded_file)
 
-if st.checkbox('Show Input'): st.write(data)
+if st.checkbox('Show Input'): st.table(data)
 
 aa = st.selectbox(
     'How would you like to be contacted?',
