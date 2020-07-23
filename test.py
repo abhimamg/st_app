@@ -24,3 +24,4 @@ aa = st.selectbox(
     'How would you like to be contacted?',
     ('Email', 'Home phone', 'Mobile phone'))
 
+st.write(np.random.randn(5, 3))
