@@ -4,7 +4,7 @@ import numpy as np
 
 
 st.write("""
-# Cathodic Protection Design. Khoya khoya chand
+# Cathodic Protection Design. Khoya khoya chand.
 ## DNVGL-RP-F103
 """)
 
