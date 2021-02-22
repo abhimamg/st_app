@@ -23,7 +23,7 @@ if st.checkbox("Show Input"):
     st.table(data)
 
 aa = st.selectbox(
-    "How would you like to be contacted?", ("Email", "Home phone", "Mobile phonewa")
+    "How would you like to be contacted?", ("Email", "Home phone", "Mobile phonewa ji")
 )
 
 st.write(np.random.randn(5, 3))
